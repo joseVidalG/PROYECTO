@@ -1,0 +1,27 @@
+<resources>
+    <string name="pelicula_paraiso">Paraiso</string>
+    <string name="pelicula_list">Para</string>
+    <string name="pelicula_letras">P</string>
+
+    <string-array name="peli_list_full">
+        <item>Paraiso</item>
+        <item>LaCantuta</item>
+        <item>LaCasaRosada</item>
+        <item>Magallanes</item>
+    </string-array>
+
+    <string-array name="peli_list_name">
+        <item>Estreno 15/07/2007</item>
+        <item>Estreno 10/05/2004</item>
+        <item>Estreno 12/11/2010</item>
+        <item>Estreno 13/07/2014</item>
+    </string-array>
+
+    <string-array name="peli_list_name_letras">
+        <item>Drama</item>
+        <item>Documental</item>
+        <item>Drama</item>
+        <item>Drama</item>
+        <item>Drama</item>
+    </string-array>
+</resources>
